@@ -3,6 +3,7 @@
 	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": ""
+	
 	"Plugins": [
 		{
 			"Name": "LowEntryExtStdLib",
