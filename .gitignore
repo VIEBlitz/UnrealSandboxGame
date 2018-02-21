@@ -74,3 +74,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+USG/Intermediate/AssetRegistryCache/c90e3f55.bin
+USG/Intermediate/CachedAssetRegistry.bin
+USG/Saved/AutoScreenshot.png
+USG/Saved/Config/Windows/Editor.ini
+USG/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+USG/Saved/Config/Windows/Engine.ini
